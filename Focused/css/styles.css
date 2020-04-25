@@ -1,0 +1,38 @@
+.left{
+    margin-top: 150px;
+}
+.bigimg{
+    padding-top: 100px ;
+    padding-bottom: 55px;
+}
+.lm{
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 21px;
+color: #F2C730;
+width: 182px;
+text-align: center;
+}
+.btns{
+    display:flex;
+    align-items: center;
+    margin-top: 40px;
+    
+}
+.tophead{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 20px;
+justify-content: center;
+padding-top: 81px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 4px;
+
+color: #637381;
+}
