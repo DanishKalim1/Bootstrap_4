@@ -1,0 +1,16 @@
+.borderDiv{
+    
+border: 1px solid #E0E0E0;
+border-radius: 5px;
+box-shadow: 0px 2.57842px 8.59475px rgba(0, 0, 0, 0.1);
+padding-top: 40px;
+padding: 40px 45px;
+margin-top: 50px;
+
+
+
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
