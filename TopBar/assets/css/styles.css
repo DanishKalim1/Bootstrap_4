@@ -1,0 +1,28 @@
+nav{
+  border: 1px solid silver;
+ 
+}
+button{
+color:white;
+background: #007AFF;
+border-radius: 5px;
+font-size: 16px;
+line-height: 22px;
+width: 130px;
+height: 45px;
+}
+.blue{
+  color: #007AFF;
+}
+ul{
+font-family:'Roboto';
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+}
+span{
+ 
+}

@@ -1,0 +1,47 @@
+body {
+  background-color: rgb(255,255,255);
+}
+
+.border.rounded.border-dark {
+  height: 350px;
+  width: 500px;
+}
+
+.border.rounded-0.border-dark {
+  height: 80px;
+  display: flex;
+  width: 498px;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text-center {
+  width: 75px;
+  height: 50px;
+  margin-right: 0px;
+  padding-right: 0px;
+}
+
+.icon.ion-ios-people {
+  margin-right: 15px;
+  font-size: 27px;
+  color: rgb(173,175,177);
+}
+
+.fas.fa-bolt {
+  font-size: 22px;
+  color: #eaaf0f;
+}
+
+.text-center.d-sm-flex.align-items-sm-start {
+  width: 80px;
+  background-color: #fefbfb;
+}
+
+.text-left.d-flex.flex-column.justify-content-center {
+  width: 500px;
+  height: 270px;
+  padding-left: 25px;
+}
+
